@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxMillrose
-- 👀 I’m interested in Rust, Python, AI, C / C++
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in C, Python, AI, C++
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on nothing ATM
 - 📫 How to reach me max.millrose@gmail.com
 
